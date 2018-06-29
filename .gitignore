@@ -1,10 +1,10 @@
 .idea/
 .gradle/
 build/
-obj/
 *.iml
 local.properties
 *.keystore
 gradle.properties
 
-TMessagesProj/src/main/java/onlyleo/telegram/messenger/BuildVars.java
+.setting
+.vscode
